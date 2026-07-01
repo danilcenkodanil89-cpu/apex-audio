@@ -1,6 +1,6 @@
 {
   "name": "apex-audio",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Десктопный музыкальный плеер с метаданными и обложками",
   "main": "main.js",
   "scripts": {
