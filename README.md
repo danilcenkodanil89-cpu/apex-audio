@@ -59,8 +59,8 @@ Apex Audio is a cross-platform desktop music player built with Electron. It prov
 ### Installation
 
 ```sh
-git clone "https://github.com/danilcenkodanil89-cpu/Apex Audio"
-cd "Apex Audio"
+git clone "https://github.com/danilcenkodanil89-cpu/apex-audio"
+cd "apex-audio"
 npm install
 ```
 
@@ -74,9 +74,9 @@ npm start
 
 ## Contributing
 
-- [Report Issues](https://github.com/danilcenkodanil89-cpu/Apex Audio/issues)
-- [Submit Pull Requests](https://github.com/danilcenkodanil89-cpu/Apex Audio/pulls)
-- [Discussions](https://github.com/danilcenkodanil89-cpu/Apex Audio/discussions)
+- [Report Issues](https://github.com/danilcenkodanil89-cpu/apex-audio/issues)
+- [Submit Pull Requests](https://github.com/danilcenkodanil89-cpu/apex-audio/pulls)
+- [Discussions](https://github.com/danilcenkodanil89-cpu/apex-audio/discussions)
 
 ---
 
